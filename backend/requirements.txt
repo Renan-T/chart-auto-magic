@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pandas
+python-multipart
+openpyxl
+numpy
+python-dotenv
+orjson
+httpx
+pyarrow
